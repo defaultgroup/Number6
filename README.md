@@ -50,4 +50,3 @@ alert("야, 너 문과냐?");
 <br>
 <br>
 </body>
-</html>
