@@ -1,10 +1,12 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>결함동아리 첩자</title>
 </head>
 <style>
-button {
+ body {
+text-align: center;
+}
+  button {
 background-color: #f44336;
 border: none;
 color: white;
@@ -17,11 +19,10 @@ margin: 4px 2px;
 cursor: pointer;
 }
 </style>
+
 <body bgcolor=#E0F7FA style="margin : 20px 20px 20px 20px;">
 <div style="background:#26c6DA">
-<center>
-<font size=8px>문제를 푸시오</pont>
-</center>
+<h1>문제를 푸시오</h1>
 <body>
 <h3> 문제를 풀어주시면 되겠습니다.</h3>
   <script>
