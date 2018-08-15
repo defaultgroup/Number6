@@ -43,9 +43,9 @@ alert("야, 너 문과냐?");
 <br>
 <button onclick="dpr()">정답 제출하기 </button>
 &emsp; &emsp;
-<button onclick='https://defaultgroup.github.io/Number7/' > "다음문제로" </button>
+<a href="https://defaultgroup.github.io/Number7/"><button> 다음문제로! </button></a>
 &emsp; &emsp;
-<button onclick='https://defaultgroup.github.io/END/'>"최종정답으로" </button>
+<a href="https://defaultgroup.github.io/END/"><button> 최종정답으로! </button></a>
 <br>
 <br>
 <br>
