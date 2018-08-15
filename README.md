@@ -28,7 +28,7 @@ cursor: pointer;
 function dpr(){
    var password;
    var pass1 = "지동설"
-  password=prompt("정답을 기입히여 주세요.");
+  password=prompt("정답을 기입하여 주세요.");
     if(password === pass1) {
       alert("정답입니다. 키워드는 L입니다. 다음문제로 넘어가주세요.");
     } else {
@@ -43,9 +43,9 @@ alert("야, 너 문과냐?");
 <br>
 <button onclick="dpr()">정답 제출하기 </button>
 &emsp; &emsp;
-<button onclick='a herf=https://defaultgroup.github.io/Number7/' > "다음문제로" </button>
+<button onclick='https://defaultgroup.github.io/Number7/' > "다음문제로" </button>
 &emsp; &emsp;
-<button onclick='a herf=https://defaultgroup.github.io/END/'>"최종정답으로" </button>
+<button onclick='https://defaultgroup.github.io/END/'>"최종정답으로" </button>
 <br>
 <br>
 <br>
