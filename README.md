@@ -20,7 +20,6 @@ cursor: pointer;
 }
 </style>
 
-<body bgcolor=#E0F7FA style="margin : 20px 20px 20px 20px;">
 <div style="background:#26c6DA">
 <h1>문제를 푸시오</h1>
 <body>
@@ -42,7 +41,7 @@ alert("야, 너 문과냐?");
 <h5>보기{사원소설, 에테르, 천동설, 지동설, 절충설}</h5> 
 <h5> 주어진 답을 아래의 "정답 제출하기"에 가서 기입하여 주세요.</h5>
 <br>
-<button onclick=dpr()>정답 제출하기 </button>
+<button onclick="dpr()">정답 제출하기 </button>
 &emsp; &emsp;
 <button onclick='a herf=https://defaultgroup.github.io/Number7/' > "다음문제로" </button>
 &emsp; &emsp;
